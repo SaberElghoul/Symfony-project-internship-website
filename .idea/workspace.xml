@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1ce820-341c-4397-a03d-2412e4978606" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/home_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/home_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_show_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_show_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.login.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.login.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.pro.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.pro.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.register.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.register.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.user.html.twig" beforeDir="false" afterPath="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.user.html.twig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/ProfileController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/ProfileController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/ProfileProController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/ProfileProController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/internshipController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/internshipController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Controller/userskillsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/userskillsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppBundle/Entity/internship.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/internship.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/-/6/OR86Z-GW1hf5eC8MgfyE" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/-/6/OR86Z-GW1hf5eC8MgfyE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/-/I/M21oVMkKnnODgKyzUWgL" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/-/I/M21oVMkKnnODgKyzUWgL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/2/D/U6mI7nV2Nlta9WDWXHV9" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/2/D/U6mI7nV2Nlta9WDWXHV9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/2/S/0qYtQWH0rhR9-453pHi-" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/2/S/0qYtQWH0rhR9-453pHi-" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/4/R/cWb7NGlD8HIupr3vUI22" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/4/R/cWb7NGlD8HIupr3vUI22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/5/-/BeWPlUTWmVLtfkkHVqRD" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/5/-/BeWPlUTWmVLtfkkHVqRD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/5/I/wwPTetN4H4xnkfq1FYBa" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/5/I/wwPTetN4H4xnkfq1FYBa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/7/U/QMatALlgsgS0UBQiCw+b" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/7/U/QMatALlgsgS0UBQiCw+b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/8/7/9AQT3cQBauC8gc-Hg0x4" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/8/7/9AQT3cQBauC8gc-Hg0x4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/8/A/9CHwhdYnYAHXf3We9+G-" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/8/A/9CHwhdYnYAHXf3We9+G-" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/A/lzbfcStnuHJ2RzpZkhuq" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/A/lzbfcStnuHJ2RzpZkhuq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/F/1B3GKU3yv3HHFJwxxCvv" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/F/1B3GKU3yv3HHFJwxxCvv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/W/F-Ytg4ph5EdIo48AqQo4" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/9/W/F-Ytg4ph5EdIo48AqQo4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/B/C/esQ5PEpB4VdTZXH+aKPd" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/B/C/esQ5PEpB4VdTZXH+aKPd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/B/S/BE1YbRcdjScz4G8EtMeH" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/B/S/BE1YbRcdjScz4G8EtMeH" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/C/Y/IltXmMI7aZBv2zjvesI+" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/C/Y/IltXmMI7aZBv2zjvesI+" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/D/P/lyzvviFkqWTXje6gKBoN" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/D/P/lyzvviFkqWTXje6gKBoN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/D/P/vFVo9kT3yGNgzFmV018Z" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/D/P/vFVo9kT3yGNgzFmV018Z" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/5/vAque0UChIJe913can2V" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/5/vAque0UChIJe913can2V" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/E/9ax4xU4wd-nehASymNx6" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/E/9ax4xU4wd-nehASymNx6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/I/y5dtgvm4kj83DMkzDyec" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/G/I/y5dtgvm4kj83DMkzDyec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/H/B/iachQtFqbu1sYmAzq4AC" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/H/B/iachQtFqbu1sYmAzq4AC" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/4/LkjiP8VAU8lxcvXg9k6d" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/4/LkjiP8VAU8lxcvXg9k6d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/5/Mnrqk04NHMLNN5hgQbmk" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/5/Mnrqk04NHMLNN5hgQbmk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/9/ViidfnUtu5zGZzymcOuu" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/9/ViidfnUtu5zGZzymcOuu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/B/5mZCNi0Gettv+BmgNQF0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/B/5mZCNi0Gettv+BmgNQF0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/I/Tpa52GTW88JVfUMiTpCQ" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/I/Tpa52GTW88JVfUMiTpCQ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/X/T+-5JiTYUlweUYFaX+-j" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/I/X/T+-5JiTYUlweUYFaX+-j" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/D/elIK7YxT0asJsxOBR1Oi" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/D/elIK7YxT0asJsxOBR1Oi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/J/RS6xvBfBaFQiXRxEtu-A" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/J/RS6xvBfBaFQiXRxEtu-A" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/X/tiK04zLWun1ss78rP8R-" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/J/X/tiK04zLWun1ss78rP8R-" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/1/zdy5oYPgFvmsOiE27602" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/1/zdy5oYPgFvmsOiE27602" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/P/ZM7BD242W+aAVQmfTE6g" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/P/ZM7BD242W+aAVQmfTE6g" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/R/7PcBfeQcS0hHi5Jkaio3" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/K/R/7PcBfeQcS0hHi5Jkaio3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/L/2/rCbKorUlAScK36c7XIRM" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/L/2/rCbKorUlAScK36c7XIRM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/L/C/h3o89-y-H820iTWREHXB" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/L/C/h3o89-y-H820iTWREHXB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/L/Z7qm8PwqWxIuB92At+W7" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/L/Z7qm8PwqWxIuB92At+W7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/S/O4swkcJ7pzNQzpcY5CtO" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/S/O4swkcJ7pzNQzpcY5CtO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/W/nMsJDl+EzBiDhCGlbIWr" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/W/nMsJDl+EzBiDhCGlbIWr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/Z/6kKKznN2AnhLq33V-ObB" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/P/Z/6kKKznN2AnhLq33V-ObB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Q/H/IklFORXKcQU4hmNypoCJ" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Q/H/IklFORXKcQU4hmNypoCJ" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/R/5/6JIGODx-Z00lhWNvSYbX" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/R/5/6JIGODx-Z00lhWNvSYbX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/R/C/2VxRL8DjZHOvAfOs3-B0" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/R/C/2VxRL8DjZHOvAfOs3-B0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/S/A/pDkkZZXdQVmlDCHr1CD9" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/S/A/pDkkZZXdQVmlDCHr1CD9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/T/2/eDQWoC52SPlrIGquvXPK" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/T/2/eDQWoC52SPlrIGquvXPK" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/U/E/HTtIMAwVtRKCBMo+pizj" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/U/E/HTtIMAwVtRKCBMo+pizj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/U/Y/PlG3feRil+WAOlFPfG+i" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/U/Y/PlG3feRil+WAOlFPfG+i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/V/G/QmVF5k+SMglZER8b3UqX" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/V/G/QmVF5k+SMglZER8b3UqX" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/V/H/D3MH4zyi-wIk8RVqhbQl" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/V/H/D3MH4zyi-wIk8RVqhbQl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/W/G/cXHdqrrNit6KzOnTSnEq" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/W/G/cXHdqrrNit6KzOnTSnEq" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/W/O/GXGGfA1GdNG8aEtj2P6I" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/W/O/GXGGfA1GdNG8aEtj2P6I" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/9/7GPYWkYpN2BZIvIW6Rkp" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/9/7GPYWkYpN2BZIvIW6Rkp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/J/qZcXd3Km6kBuyE82FAZm" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/J/qZcXd3Km6kBuyE82FAZm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/S/xkbwS-OU-slnHF5aDCWx" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/X/S/xkbwS-OU-slnHF5aDCWx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Y/B/a8aWGm4UJaipxGsjTmu2" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Y/B/a8aWGm4UJaipxGsjTmu2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Y/K/Ob57mCdJfYaXLL1MPAJL" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Y/K/Ob57mCdJfYaXLL1MPAJL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Z/B/jSLrOjS9mcoZxLAeL3or" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/pools/OOYODOn8r6/Z/B/jSLrOjS9mcoZxLAeL3or" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/05/0522aea734bc89fbb175768895f599d583e798401aed3ff329c82fa57426ac99.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/05/0522aea734bc89fbb175768895f599d583e798401aed3ff329c82fa57426ac99.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/53/53f2e7043f41e80f87529c3ecadec6d1cb075943a90a871fc3393e22da7ab7b0.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/53/53f2e7043f41e80f87529c3ecadec6d1cb075943a90a871fc3393e22da7ab7b0.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f6125cd8186a8111dd3432f9e0ea923398ec5d77ef67a8429a7c53f999a876b.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/8f/8f6125cd8186a8111dd3432f9e0ea923398ec5d77ef67a8429a7c53f999a876b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/94/94ae6f725018cdcf07c700da7f62883ff1061f77188f41b11e4b28bede05755a.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/94/94ae6f725018cdcf07c700da7f62883ff1061f77188f41b11e4b28bede05755a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/dd/dd4cb0fd43c5283caaa4bed21dd54704fff4cea7e48ee7a0780de27cb2f927fb.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/dd/dd4cb0fd43c5283caaa4bed21dd54704fff4cea7e48ee7a0780de27cb2f927fb.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/cache/dev/twig/f3/f38c3f5e2ec8e8fd69818947b27c44c996260dd2057214d0bab78e63147678dd.php" beforeDir="false" afterPath="$PROJECT_DIR$/var/cache/dev/twig/f3/f38c3f5e2ec8e8fd69818947b27c44c996260dd2057214d0bab78e63147678dd.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/logs/dev.log" beforeDir="false" afterPath="$PROJECT_DIR$/var/logs/dev.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_066p3f9pedpob2ai7lm1uej1aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_0pbfcmp3dr1n9794r9vbd4d299" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_1giidc2dpgrlp9l19r9vhnqdj1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_1pdjlbpfhf63mmjm7g2k2rd90o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_28fji7jlnrp9d9pdt1d8ka9sh2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_2tji56uvuvn05a45r2inbsq8jl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_3e5q35f3od4nqk96lvvrtg70ug" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_3lu5tajm17olmo6iqe2ql1a31i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_3nmfivn4jg751l2fqpidvfafh3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4b5khkio7kh0aema9ntoq2ka09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4fn3bsrujqk12fm6pt3i6cc7jp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4mutpcqp8f3r14o2emgf07m2ki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4omgv889cke2slegems5rbjuor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_4rt1i1a0h460p4ostiqqsd8khg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_57qdkicu89h77hgvoq1p4an8qg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_61rr2mlpkcpq55dm50ejgtgihm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_6llh3vclk7vfcpt2464p8j8fg9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_73ldeethi7recn1k3ahp039fls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_7b3m7odnljvd3aeh3d09re95sd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_7kvboekc8v4gchtg6oeocpu43i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_7mfkki4edc8o3i7lblc6lq0ji7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_8fd92717a3t8lflgjv24c1sbkj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_9lbr7o771edb25qj6vcam05bc0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_a0dss8hhnbmve62etii98ug2u1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_ader360rfumaftjgveqiqk21ak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_alhj53raat7itm0qjhqtgoocmf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_au71napcm5q6hiq5kco8utr2n3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_b1en86n7jate6egu0a66d0h9p8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_b78pt8nv2mgcjflaqafirqrpmm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_betgklrlcsviavvefjeqss7590" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_bht4sklfdjb1n7d231oahdeqh1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_boepbnvj57bkniqskircbmu4p5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_c8rcomg4gc49c5a0ir2l6n19k6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_caoihvh4ami4peb0q0c2tifhiv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_cb7mta7tt20mnh7j4q06crm8t6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_crp4skmour2c7qjihs8ctvncnh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_d0aqreaije4de2haeqloffs7bn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_dq4adiq7fldkhbjc88v4k4mcgr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_drk3pftb85k6coe0cg83ru76nl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_e3g0mi4h7mpqbngo271m46k0vd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_f5vgo1q5iv2aqmiqa243k5305i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_fcpvm0k9hl1eg4rhhkvm9a5r3q" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_gg4vnkgolpundeepqq3np4htnv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_i3fi2neaidl7vglvp5pvvbeghu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_ish0eluceghoo1npa5h7pu7naa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_jes7nok6tau0ndulrm6e1oois6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_jfnat5ai0mnh96eake0neskd3e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_jlaqentui8eelitthbddhf75cq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_kcctvpaldb58on8fs8t4dk7a2t" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_kpfdm2ab5a46cc44rfe6unoegk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_mmj68kdsplgj6o44st1f6klhrb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_mnrgbi870mjpgo2sb8n2m6dp7t" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_msqjck9ufdiukqcp6e4ahdj7d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_mv7sag34nne44fclm0khk32d6k" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_o12h9deb0r1m3hgi59og6ug7tu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_o7e5d4mu6tal90858lqdjorrn6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_p32b0ev51g5rnmjirmjpciirni" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_p5bapgs7bqdviop2q5sk1hv5ov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_pu2r332orldic2i4oiohs8npmq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_q5euvpon3scrhfn4uq3rfvekn0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_qbjadhkns4v1udkmkrdh1rlj8m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_r47easkov6rup47vmekthn42ci" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_s3f67bn93m2dqba5866kdpnvbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_sgkq1ka80r4p7eqptvmnffv5gq" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_sitfar80gmq5jsqou7s3frb7n2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_tauhppqijho8242kj694mm4jta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_tj9usvku14jl2m14e8v55cjv9q" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_u358vjncrdv4huebm5h1scrvdg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_vfqukt3fes3il33uumcqqve2a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/var/sessions/dev/sess_vosv3nc71qmmaqononj2k976ql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="682753456">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="72" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="3" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.31" value="4" />
+          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.36" value="3" />
+          <entry key="project.open.time.37" value="3" />
+          <entry key="project.open.time.38" value="4" />
+          <entry key="project.open.time.39" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.43" value="2" />
+          <entry key="project.open.time.44" value="2" />
+          <entry key="project.open.time.45" value="2" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.53" value="2" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.55" value="2" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="dist" value="1" />
+          <entry key="gitignore" value="1" />
+          <entry key="html" value="8" />
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+          <entry key="less" value="1" />
+          <entry key="md" value="2" />
+          <entry key="php" value="495" />
+          <entry key="scss" value="1" />
+          <entry key="twig" value="417" />
+          <entry key="xml" value="2" />
+          <entry key="yml" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="8" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Less" value="1" />
+          <entry key="Markdown" value="2" />
+          <entry key="PHP" value="481" />
+          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="SCSS" value="1" />
+          <entry key="Twig" value="405" />
+          <entry key="XML" value="2" />
+          <entry key="YAML" value="83" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="2" />
+          <entry key="php" value="7548" />
+          <entry key="twig" value="5788" />
+          <entry key="txt" value="18" />
+          <entry key="yml" value="485" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="7548" />
+          <entry key="PLAIN_TEXT" value="20" />
+          <entry key="Twig" value="5788" />
+          <entry key="YAML" value="485" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.actions">
+        <counts>
+          <entry key="clear-cache_from_MainMenu" value="19" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PROJET" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/userskillsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/internshipController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/RegistrationProController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1108" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ProfileProController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/home_content.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.user.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2142">
+              <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="374" column="40" selection-start-line="374" selection-start-column="20" selection-end-line="374" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit_content.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formeve</find>
+      <find>out</find>
+      <find>stage</find>
+      <find>resp</find>
+      <find>boot</find>
+      <find>edit</find>
+      <find>edi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/ProProfileFormType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/RegistrationType.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/RegistrationProController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/new_inter.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/SecurityController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/internship/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/ProfileFormType.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/internshipType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_inter.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/details_intern.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_home.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_intern_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/usersikillsType.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/new_intern_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/add.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_home_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/HomeController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/searchType.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/ApplyController.php" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Apply.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/internship.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/UserController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/details_intern_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/admin_home.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/sekkers.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/appliedIntern.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/appliedIntern_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_show_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.register.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.login.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/ProfileController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/ProfileProController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.pro.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.user.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/internshipController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/home_content.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/userskillsController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/web/template/bower_components/Flot/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/bootstrap-datepicker/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/bootstrap-daterangepicker/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/ckeditor/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/ion.rangeSlider/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/jquery-knob/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/jquery-slimscroll/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/web/template/bower_components/select2/package.json" />
+      <path value="$PROJECT_DIR$/web/template/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <path value="$PROJECT_DIR$/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/vendor/almasaeed2010/adminlte" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/ringphp" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/streams" />
+      <path value="$PROJECT_DIR$/vendor/ruflin/elastica" />
+      <path value="$PROJECT_DIR$/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/elastica-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="FOSUserBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="FOSUserBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="FOSUserBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="Profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJET" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJET" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544121593753" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../projetcrud" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PROJET\app\Resources\FOSUserBundle\views" />
+      <recent name="C:\xampp\htdocs\PROJET\app\Resources\views" />
+      <recent name="C:\xampp\htdocs\PROJET\app\Resources\FOSUserBundle\views\Profile" />
+      <recent name="C:\xampp\htdocs\PROJET\src\AppBundle\Controller" />
+      <recent name="C:\xampp\htdocs\PROJET\src\AppBundle" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PROJET\app\Resources\FOSUserBundle" />
+      <recent name="C:\xampp\htdocs\PROJET\src\AppBundle\Controller" />
+      <recent name="C:\xampp\htdocs\PROJET\src\AppBundle\Form" />
+      <recent name="C:\xampp\htdocs\PROJET\web" />
+      <recent name="C:\xampp\htdocs\PROJET\app\Resources\FOSUserBundle\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="layout.register.html.twig" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PROJET/app/Resources/FOSUserBundle/views/layout.register.html.twig">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.layout.register.html.twig" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1ce820-341c-4397-a03d-2412e4978606" name="Default Changelist" comment="" />
+      <created>1537902419945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537902419945</updated>
+      <workItem from="1537902422956" duration="15273000" />
+      <workItem from="1537921173986" duration="695000" />
+      <workItem from="1537949884912" duration="16897000" />
+      <workItem from="1537968713903" duration="10754000" />
+      <workItem from="1538054742714" duration="1076000" />
+      <workItem from="1538072103986" duration="13369000" />
+      <workItem from="1538138762246" duration="201000" />
+      <workItem from="1538141033736" duration="599000" />
+      <workItem from="1538155637827" duration="1205000" />
+      <workItem from="1538234758241" duration="21859000" />
+      <workItem from="1538294458520" duration="38144000" />
+      <workItem from="1538411229085" duration="7381000" />
+      <workItem from="1538468611825" duration="4886000" />
+      <workItem from="1538501053019" duration="597000" />
+      <workItem from="1538509540314" duration="9995000" />
+      <workItem from="1538554711881" duration="12085000" />
+      <workItem from="1538575724190" duration="13294000" />
+      <workItem from="1538654878967" duration="779000" />
+      <workItem from="1538660965114" duration="659000" />
+      <workItem from="1538669803981" duration="26672000" />
+      <workItem from="1538700747684" duration="237000" />
+      <workItem from="1538727097139" duration="3483000" />
+      <workItem from="1538736430249" duration="1979000" />
+      <workItem from="1538815579332" duration="1504000" />
+      <workItem from="1538906520239" duration="30606000" />
+      <workItem from="1539031340661" duration="598000" />
+      <workItem from="1539160874596" duration="15175000" />
+      <workItem from="1539182569895" duration="30377000" />
+      <workItem from="1539252999457" duration="266000" />
+      <workItem from="1539268519156" duration="12481000" />
+      <workItem from="1539333261666" duration="1410000" />
+      <workItem from="1539339526026" duration="2831000" />
+      <workItem from="1539348000381" duration="726000" />
+      <workItem from="1539355369397" duration="643000" />
+      <workItem from="1539438602571" duration="403000" />
+      <workItem from="1539764636819" duration="1260000" />
+      <workItem from="1539807337823" duration="31000" />
+      <workItem from="1540804672648" duration="5211000" />
+      <workItem from="1540813900902" duration="97000" />
+      <workItem from="1540891202377" duration="3417000" />
+      <workItem from="1541001411128" duration="3638000" />
+      <workItem from="1541149242177" duration="191000" />
+      <workItem from="1541272286255" duration="1331000" />
+      <workItem from="1541377649548" duration="639000" />
+      <workItem from="1542042710510" duration="81000" />
+      <workItem from="1542128734841" duration="9245000" />
+      <workItem from="1542185238831" duration="5043000" />
+      <workItem from="1542321696376" duration="890000" />
+      <workItem from="1542326959425" duration="35000" />
+      <workItem from="1542889122032" duration="3022000" />
+      <workItem from="1542922088820" duration="612000" />
+      <workItem from="1543395032562" duration="7703000" />
+      <workItem from="1543406107786" duration="85000" />
+      <workItem from="1543408050004" duration="2484000" />
+      <workItem from="1543511692043" duration="13168000" />
+      <workItem from="1543528770032" duration="100000" />
+      <workItem from="1543571912940" duration="648000" />
+      <workItem from="1543683403114" duration="700000" />
+      <workItem from="1544000289493" duration="32000" />
+      <workItem from="1544033845140" duration="688000" />
+      <workItem from="1544036860307" duration="13130000" />
+      <workItem from="1544104697741" duration="378000" />
+      <workItem from="1544107022395" duration="1112000" />
+      <workItem from="1544119868669" duration="1291000" />
+      <workItem from="1544214854194" duration="651000" />
+      <workItem from="1544221626235" duration="594000" />
+      <workItem from="1544377323923" duration="1330000" />
+      <workItem from="1544383646307" duration="804000" />
+      <workItem from="1544441358515" duration="226000" />
+      <workItem from="1544536838631" duration="1332000" />
+      <workItem from="1544548045663" duration="595000" />
+      <workItem from="1544550913960" duration="20000" />
+      <workItem from="1544556366309" duration="597000" />
+      <workItem from="1544565048281" duration="446000" />
+      <workItem from="1544568887784" duration="598000" />
+      <workItem from="1544604867627" duration="8972000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1542892046176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542892046176</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Apply">
+      <created>1542892671267</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542892671267</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Apply2">
+      <created>1542892870800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542892870800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Apply4">
+      <created>1543402983112</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1543402983112</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="391566000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49720672" visible="true" weight="0.24496645" />
+      <window_info id="Structure" order="1" sideWeight="0.5027933" side_tool="true" weight="0.26174498" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.16040269" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32719547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4919463" visible="true" weight="0.23371105" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5080537" side_tool="true" weight="0.23654391" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.026174497" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49720672" visible="true" weight="0.18120806" />
+      <window_info id="Structure" order="1" sideWeight="0.5027933" side_tool="true" weight="0.26174498" />
+      <window_info id="Favorites" order="2" sideWeight="0.5010526" side_tool="true" weight="0.16040269" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4986577" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32719547" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4919463" visible="true" weight="0.23654391" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5080537" side_tool="true" visible="true" weight="0.23654391" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="Apply" />
+    <MESSAGE value="Apply2" />
+    <MESSAGE value="Apply3" />
+    <MESSAGE value="Apply4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Apply4" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/apply/show.html.twig" />
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/internship/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/internship/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/user/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/user/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/admin_home.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/details_intern_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/details_intern.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/appliedIntern.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_home_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/appliedIntern_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="60" column="92" selection-start-line="60" selection-start-column="92" selection-end-line="60" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/views/userskills/add.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="85" column="31" lean-forward="true" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-446">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="36" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/UserType.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/skill.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="10" lean-forward="true" selection-start-line="32" selection-start-column="3" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/internshipType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/SecurityController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_intern_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/pro_register_html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Registration/pro_register_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
+          <folding>
+            <element signature="e#40#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/internship.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4267">
+          <caret line="252" column="7" selection-start-line="252" selection-start-column="7" selection-end-line="252" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_show_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/RegistrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="84" column="33" selection-start-line="84" selection-start-column="33" selection-end-line="84" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/RegistrationType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.register.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ProfileController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/seekers_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="31" column="115" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.pro.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="223" column="35" selection-start-line="223" selection-start-column="35" selection-end-line="223" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/candidate_profile_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="374" column="40" selection-start-line="374" selection-start-column="20" selection-end-line="374" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/pro_edit_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="60" selection-start-line="7" selection-start-column="60" selection-end-line="7" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/edit_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="68" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ProfileProController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/layout.user.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="162" column="31" selection-start-line="162" selection-start-column="31" selection-end-line="162" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/home_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/FOSUserBundle/views/Profile/show_content.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/RegistrationProController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/internshipController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="218" column="19" selection-start-line="218" selection-start-column="19" selection-end-line="218" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/userskillsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="59" column="28" selection-start-line="59" selection-start-column="28" selection-end-line="59" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
